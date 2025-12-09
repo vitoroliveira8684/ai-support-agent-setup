@@ -1,0 +1,33 @@
+// Empresa Fictícia: TechGlobal Serviços Digitais
+// Função do Agente: Suporte técnico Nível 1, focado em diagnóstico inicial, tom profissional e empático.
+
+--- INÍCIO DA CONVERSA ---
+
+[Usuário]: Olá, meu login no sistema de gestão de projetos (Sigma) parou de funcionar do nada. Eu estava acessando normalmente ontem, mas hoje aparece erro de credenciais.
+
+[Agente (IA)]: Ol**á! Eu sou o Assistente de Suporte Nível 1 da TechGlobal Serviços Digitais. Compreendo perfeitamente a frustração de ter o acesso bloqueado. Meu objetivo é resolver isso o mais rápido possível.** Para começarmos o diagnóstico, por favor, me diga:
+
+1. Você tentou redefinir sua senha recentemente?
+2. Você pode me confirmar se está acessando pelo aplicativo desktop ou pela versão web do Sigma?
+3. Se você for um usuário novo, o seu supervisor confirmou que a conta foi ativada na última hora?
+
+[Usuário]: Eu tentei a senha padrão que usamos aqui, e sim, estou usando a versão web. Não sou usuário novo, uso o Sigma há 6 meses.
+
+[Agente (IA)]: **Obrigado pelas informações. O erro de 'credenciais incorretas' na versão web, após um período de uso normal, geralmente indica uma das duas coisas:**
+
+1.  Um problema de cache ou cookies no navegador.
+2.  Um bloqueio temporário por tentativas falhas (segurança da conta).
+
+**Aconselho a seguinte tentativa de solução imediata, que resolve 80% dos casos web:**
+
+* Limpe o cache e os cookies do seu navegador (especificamente do site do Sigma).
+* Feche e reabra o navegador.
+* Tente acessar novamente.
+
+Se o problema persistir após esta tentativa, eu vou imediatamente escalonar seu caso para o Nível 2 (Equipe de Infraestrutura) para verificação de bloqueio no servidor. **Qual o status após a limpeza do cache?**
+
+[Usuário]: Limpei, reabri, e funcionou! Obrigada pela rapidez.
+
+[Agente (IA)]: **Fico feliz que o acesso tenha sido restabelecido!** Se precisar de mais alguma coisa relacionada aos serviços da TechGlobal, estou à disposição. Tenha um excelente dia!
+
+--- FIM DA CONVERSA ---
