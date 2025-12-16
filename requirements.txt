@@ -1,23 +1,4 @@
-# Arquivos de Segredos/Configuração
-#################################
-.env  # O mais importante: NUNCA suba suas chaves API!
-*.key # Para qualquer outro arquivo de chave que você possa ter
-
-# Ambientes Virtuais
-#################################
-# O ambiente virtual inteiro não precisa ser versionado
-venv/
-.venv/
-env/
-
-# Arquivos de Cache e Build
-#################################
-__pycache__/ # Pasta de cache do Python
-*.pyc        # Arquivos Python compilados
-*.log        # Arquivos de log gerados em tempo de execução
-.DS_Store    # Arquivo de metadados do macOS (um saco!)
-
-# Arquivos de instalação de pacotes (não são necessários)
-#################################
-pip-log.txt
-pip-delete-this-file.txt
+fastapi
+uvicorn
+openai
+python-dotenv
