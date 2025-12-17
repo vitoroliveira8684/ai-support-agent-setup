@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware # <--- IMPORTANTE
+from fastapi.middleware.cors import CORSMiddleware # <--- IMPORTANTE! ele serve pra poder usar em navegadores
 from pydantic import BaseModel
 from typing import List, Optional
 from app.services.llm_service import SupportAgent
